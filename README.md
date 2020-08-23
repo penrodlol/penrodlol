@@ -1,4 +1,6 @@
-# Hi, I'm Christian 👋
+### What’s crackin’? I'm Christian 🤙🏼👨🏽‍💻
+
+![image](assets/banner.png)
 
 <!--
 **penrodlol/penrodlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
