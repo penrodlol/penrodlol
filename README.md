@@ -1,6 +1,8 @@
 ### What’s crackin’? I'm Christian 🤙🏼👨🏽‍💻
 
-![image](assets/banner.png)
+<img
+    src='https://i.imgur.com/ZqkU71L.png'
+    alt='Banner'>
 
 <!--
 **penrodlol/penrodlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
