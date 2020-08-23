@@ -1,10 +1,8 @@
 ## What’s crackin’? I'm Christian 🤙🏼👨🏽‍💻
 <hr>
 
-<img
-    src='https://i.imgur.com/ZqkU71L.png'
-    alt='Banner'>
-I'm a software engineer who has a strong passion toward web development and the constant state of new and exciting technologies it has to offer. My primary expertise revolves around the Angular Framework <svg viewBox="0 0 15 15" fill="none" xmlns="https://www.w3.org/2000/svg" width="13" height="13"><path d="M5.858 8L7.5 4.247 9.142 8H5.858z" fill="#b52e31"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M15 2.144L7.5 0 0 2.144l1.07 9.64L7.5 15l6.43-3.216L15 2.143zm-7.5-.391l3.958 9.047-.916.4L9.579 9H5.421l-.963 2.2-.916-.4L7.5 1.753z" fill="#b52e31"></path></svg> . Offering professional experience within enterprise level applications as well as numerous personal projects. Unreated to web development, I also enjoy building custom mechanical keyboards ⌨️ as a hobby.
+<img src='https://i.imgur.com/ZqkU71L.png' alt='Banner'>
+I'm a software engineer who has a strong passion toward web development and the constant state of new and exciting technologies it has to offer. My primary expertise revolves around the Angular Framework.<img src='./assets/angular.png' alt='Angular Logo' width='15px' height='15px'> Offering professional experience within enterprise level applications as well as numerous personal projects. Unreated to web development, I also enjoy building custom mechanical keyboards ⌨️ as a hobby.
 <hr>
 
 <!--
