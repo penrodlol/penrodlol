@@ -6,7 +6,9 @@
 I'm a software engineer who has a strong passion toward web development and the constant state of new and exciting technologies it has to offer. My primary expertise revolves around the <em>Angular Framework</em>. Offering professional experience within enterprise level applications as well as numerous personal projects. Unreated to web development, I also enjoy building custom mechanical keyboards ⌨️ as a hobby.
 <hr>
 
-https://profile-counter.glitch.me/penrodlol/count.svg
+<div>
+    <img align="center" src="https://profile-counter.glitch.me/beeman/count.svg" />
+</div>
 
 #### Learning Goals 🏅:
 - Firebase Cloud Functions (https://firebase.google.com/docs/functions) ✅
