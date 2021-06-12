@@ -7,7 +7,7 @@ I'm a software engineer who has a strong passion toward web development and the 
 <hr>
 
 <div>
-    <img align="center" src="https://profile-counter.glitch.me/beeman/count.svg" />
+    <img align="center" src="https://profile-counter.glitch.me/penrodlol/count.svg" />
 </div>
 
 #### Learning Goals 🏅:
