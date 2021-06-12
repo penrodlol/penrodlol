@@ -9,11 +9,3 @@ I'm a software engineer who has a strong passion toward web development and the 
 <div>
     <img align="center" src="https://profile-counter.glitch.me/penrodlol/count.svg" />
 </div>
-
-#### Learning Goals 🏅:
-- Firebase Cloud Functions (https://firebase.google.com/docs/functions) ✅
-- Algolia (https://www.algolia.com/doc/) ✅
-- Angular Material CDK (https://material.angular.io/cdk/categories) 🕝
-- GraphQL (https://graphql.org/) 🕝
-- Svelte (https://svelte.dev/)
-- Flutter (https://flutter.dev/)
