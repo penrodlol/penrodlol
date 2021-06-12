@@ -1,7 +1,3 @@
-<img
-    src='https://i.imgur.com/ZqkU71L.png'
-    alt='Banner'>
-
 # Hi, I'm Christian! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://img.shields.io/badge/💻-Software_Engineer-informational?style=flat&color=725380)
