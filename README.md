@@ -7,8 +7,6 @@
 
 ### ⭐️ [christianpenrod.com](https://christianpenrod.com)
 
-<br />
-
 I enjoy developing for the web. I use Angular and Next.js on the daily.
 
 
