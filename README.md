@@ -5,10 +5,9 @@
 📌 Pittsburgh, PA, USA <br />
 📌 Strong passion for Front-End Web Dev. <br />
 
-### ⭐️ [christianpenrod.com](https://christianpenrod.com)
-
 I enjoy developing for the web. I use Angular and Next.js on the daily.
 
+### ⭐️ [christianpenrod.com](https://christianpenrod.com)
 
 <br />
 
