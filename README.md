@@ -5,7 +5,7 @@
 📌 Pittsburgh, PA, USA <br />
 📌 Strong passion for Front-End Web Dev. <br />
 
-### ⭐️ [christianpenrod.com](https://christianpenrod.com)Cancel changes
+### ⭐️ [christianpenrod.com](https://christianpenrod.com)
 
 <br />
 
