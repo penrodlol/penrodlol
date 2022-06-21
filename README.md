@@ -1,4 +1,4 @@
-# Howdy-do, I'm Christian! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Howdy-do, I'm Christian!
 
 📌 Currently working as Full-Stack Web Dev [@McKesson](https://www.mckesson.com/). <br />
 📌 Bachelors in Computer Science. <br />
