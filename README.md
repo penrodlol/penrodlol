@@ -1,13 +1,13 @@
 # Howdy-do, I'm Christian!
 
-📌 Currently working as Full-Stack Web Dev [@McKesson](https://www.mckesson.com/). <br />
-📌 Bachelors in Computer Science. <br />
-📌 Pittsburgh, PA, USA <br />
-📌 Strong passion for Front-End Web Dev. <br />
+➩ Web Developer [@McKesson](https://www.mckesson.com/). <br />
+➩ Bachelors in Computer Science [@LaRoche](https://www.laroche.edu/Academics/Areas_of_Study/Computer_Science/Degrees_and_Requirements/?pid=16). <br />
+➩ Pittsburgh, PA, USA <br />
 
-I enjoy developing for the web. I use Angular and Next.js on the daily.
+I enjoy developing for the web.<br />
+I use Angular and Next.js on the daily.<br />
 
-### ⭐️ [christianpenrod.com](https://christianpenrod.com)
+### ✰ [christianpenrod.com](https://christianpenrod.com) ✰
 
 <br />
 
