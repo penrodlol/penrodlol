@@ -1,4 +1,4 @@
-# Greeting, I'm Christian.
+# Greetings, I'm Christian.
 
 ➩ Web Developer [@McKesson](https://www.mckesson.com/). <br />
 ➩ Bachelors in Computer Science [@LaRoche](https://www.laroche.edu/Academics/Areas_of_Study/Computer_Science/Degrees_and_Requirements/?pid=16). <br />
