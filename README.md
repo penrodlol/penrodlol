@@ -12,11 +12,3 @@ I use Angular and Next.js on the daily.<br />
 <br />
 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/penrodlol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-penrod-07618314b)
-
-<hr><br />
-
-<div>
-  <img
-      align="center"
-      src="https://profile-counter.glitch.me/penrodlol/count.svg" />
-</div>
