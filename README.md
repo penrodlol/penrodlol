@@ -2,15 +2,14 @@
 
 ✰ [christianpenrod.com](https://www.christianpenrod.com) ✰
 
----
 
 ➩ Web Developer [@McKesson](https://www.mckesson.com/). <br />
 ➩ Bachelors in Computer Science [@LaRoche](https://www.laroche.edu/Academics/Areas_of_Study/Computer_Science/Degrees_and_Requirements/?pid=16). <br />
 ➩ Pittsburgh, PA, USA
 
----
+<br />
 
-✰ Latest Posts ✰
+### Latest Posts
 
 <!-- POSTS_START -->
 ➩ [Tailwind CSS Responsive Design Without Breakpoints](https://www.christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints/)<br/>
