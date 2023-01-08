@@ -15,3 +15,7 @@ jobs:
           node-version: "16"
       - run: npm install
       - run: node scripts/posts.mjs
+      - run: |
+          git add .
+          git commit -m "Update Posts"
+          git push
