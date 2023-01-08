@@ -9,3 +9,6 @@
 <br />
 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/penrodlol)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
