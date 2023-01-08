@@ -19,8 +19,8 @@ jobs:
         run: node scripts/posts.mjs
       - name: Commit Changes
         run: |
-          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "username@users.noreply.github.com"
+          git config --global user.name "penrodlol"
+          git config --global user.email "penrodlol@users.noreply.github.com"
           git add .
-          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git commit -m "🤖 Update Posts"
           git push
