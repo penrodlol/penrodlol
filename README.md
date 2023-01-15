@@ -12,7 +12,7 @@
 ### Latest Posts
 
 <!-- POSTS_START -->
-➩ [Tailwind CSS Responsive Design Without Breakpoints](https://www.christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints/)<br/>
-➩ [Developing Browser Extensions with Next.js](https://www.christianpenrod.com/blog/developing-browser-extensions-with-nextjs/)<br/>
-➩ [Hyper Terminal and its arsenal of plugins](https://www.christianpenrod.com/blog/hyper-terminal-and-its-arsenal-of-plugins/)<br/>
+➩ [Astro Shiki Syntax Highlighting with CSS Variables](https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables/)<br/>
+➩ [Tailwind CSS Responsive Design Without Breakpoints](https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints/)<br/>
+➩ [Developing Browser Extensions with Next.js](https://christianpenrod.com/blog/developing-browser-extensions-with-nextjs/)<br/>
 <!-- POSTS_END -->
