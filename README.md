@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<br />
-
 <h2>Latest Posts</h2>
 
 <ul>
