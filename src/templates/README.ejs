@@ -10,11 +10,10 @@
 
 <br />
 
-<h3>Latest Posts</h3>
+<h2>Latest Posts</h2>
 
-<% posts.forEach(function(post, index){ %>
-<strong>[<%= post.title %>](<%= post.link %>)</strong>
-<br />
-<%= post.pubDate.formatted %> <% if (index < posts.length - 1) { %>
-<hr />
-<% } %> <% }); %>
+<ul>
+  <% posts.forEach(function(post){ %>
+  <li><a href="<%= post.link %>"><%= post.title %></a></li>
+  <% }); %>
+</ul>
