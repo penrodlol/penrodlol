@@ -1,0 +1,20 @@
+<p align="center">
+  <a href="https://christianpenrod.com">
+    <img
+      src="assets/banner.png"
+      alt="Hey, I'm Christian. Front-End Web Developer (https://christianpenrod.com)."
+      title="Hey, I'm Christian. Front-End Web Developer (https://christianpenrod.com)."
+    />
+  </a>
+</p>
+
+<br />
+
+<h3>Latest Posts</h3>
+
+<% posts.forEach(function(post, index){ %>
+<strong>[<%= post.title %>](<%= post.link %>)</strong>
+<br />
+<%= post.pubDate.formatted %> <% if (index < posts.length - 1) { %>
+<hr />
+<% } %> <% }); %>
