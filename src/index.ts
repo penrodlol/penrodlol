@@ -1,22 +1,20 @@
+import { config as setupEnv } from 'dotenv';
 import { renderFile } from 'ejs';
 import { writeFileSync } from 'fs';
 import { join } from 'path';
-import Parser from 'rss-parser';
-import { z } from 'zod';
+import { getGithub } from './utils/get-github';
+import { getLangs } from './utils/get-langs';
+import { getPosts } from './utils/get-posts';
 
-const rss = await new Parser().parseURL('https://christianpenrod.com/rss.xml');
-const posts = z
-  .array(
-    z.object({
-      title: z.string(),
-      link: z.string(),
-      pubDate: z.string().transform((date) => new Date(date).valueOf()),
-    }),
-  )
-  .refine((r) => r.sort((a, b) => b.pubDate - a.pubDate).slice(0, 5))
-  .safeParse(rss.items);
+setupEnv();
 
-if (posts.success) {
+try {
+  const posts = await getPosts();
+  const langs = await getLangs();
+  const github = await getGithub();
+
   const path = join(process.cwd(), 'src/templates/README.ejs');
-  writeFileSync('README.md', await renderFile(path, { posts: posts.data }));
+  writeFileSync('README.md', await renderFile(path, { posts, langs, github }));
+} catch (e) {
+  console.error(e);
 }

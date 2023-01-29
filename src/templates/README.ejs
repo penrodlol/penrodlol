@@ -15,3 +15,21 @@
   <li><a href="<%= post.link %>"><%= post.title %></a></li>
   <% }); %>
 </ul>
+
+<h2>Top Languages (~30 Days)</h2>
+
+<ul>
+  <% langs.forEach(function(language){ %>
+  <li><span><%= language.name %> (<%= language.text %>)</span></li>
+  <% }); %>
+</ul>
+
+<h2>Github Stats (Past Year)</h2>
+
+<ul>
+  <li>Total Commits: <%= github.commits.total %></li>
+  <li>Total Stars: <%= github.stars.total %></li>
+  <li>Total Pull Requests: <%= github.pullRequests.total %></li>
+  <li>Total Issues: <%= github.issues.total %></li>
+  <li>Total Contributions: <%= github.contributed.total %></li>
+</ul>
