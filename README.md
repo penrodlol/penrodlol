@@ -23,3 +23,25 @@
   <li><a href="https://christianpenrod.com/blog/local-state-with-ngrx-and-apollo-angular/">Local State with NgRx &amp; Apollo Angular</a></li>
   
 </ul>
+
+<h2>Top Languages (~30 Days)</h2>
+
+<ul>
+  
+  <li><span>TypeScript (68 hrs 28 mins)</span></li>
+  
+  <li><span>Java (33 hrs 7 mins)</span></li>
+  
+  <li><span>Astro (23 hrs 10 mins)</span></li>
+  
+</ul>
+
+<h2>Github Stats (Past Year)</h2>
+
+<ul>
+  <li>Total Commits: 769</li>
+  <li>Total Stars: 10</li>
+  <li>Total Pull Requests: 3</li>
+  <li>Total Issues: 6</li>
+  <li>Total Contributions: 3</li>
+</ul>
