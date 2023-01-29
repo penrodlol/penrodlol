@@ -24,7 +24,7 @@
   
 </ul>
 
-<h2>Top Languages (~30 Days)</h2>
+<h2>Top Languages (Past 30 Days)</h2>
 
 <ul>
   
@@ -39,7 +39,7 @@
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
-  <li>Total Commits: 769</li>
+  <li>Total Commits: 770</li>
   <li>Total Stars: 10</li>
   <li>Total Pull Requests: 3</li>
   <li>Total Issues: 6</li>
