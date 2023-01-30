@@ -20,16 +20,19 @@
 
 <ul>
   <% langs.forEach(function(language){ %>
-  <li><span><%= language.name %> (<%= language.text %>)</span></li>
+  <li>
+    <strong><%= language.name %> </strong>
+    <span><%= language.text %></span>
+  </li>
   <% }); %>
 </ul>
 
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
-  <li>Total Commits: <%= github.commits.total %></li>
-  <li>Total Stars: <%= github.stars.total %></li>
-  <li>Total Pull Requests: <%= github.pullRequests.total %></li>
-  <li>Total Issues: <%= github.issues.total %></li>
-  <li>Total Contributions: <%= github.contributed.total %></li>
+  <li>Total Commits: <strong><%= github.commits.total %></strong></li>
+  <li>Total Stars: <strong><%= github.stars.total %></strong></li>
+  <li>Total PRs: <strong><%= github.pullRequests.total %></strong></li>
+  <li>Total Issues: <strong><%= github.issues.total %></strong></li>
+  <li>Total Contributions: <strong><%= github.contributed.total %></strong></li>
 </ul>
