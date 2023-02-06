@@ -30,17 +30,17 @@
   
   <li>
     <strong>TypeScript </strong>
-    <span>80 hrs 51 mins</span>
+    <span>80 hrs 37 mins</span>
   </li>
   
   <li>
     <strong>Java </strong>
-    <span>34 hrs 24 mins</span>
+    <span>37 hrs 28 mins</span>
   </li>
   
   <li>
     <strong>JSON </strong>
-    <span>16 hrs 36 mins</span>
+    <span>16 hrs 37 mins</span>
   </li>
   
 </ul>
@@ -48,7 +48,7 @@
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
-  <li>Total Commits: <strong>775</strong></li>
+  <li>Total Commits: <strong>764</strong></li>
   <li>Total Stars: <strong>9</strong></li>
   <li>Total PRs: <strong>6</strong></li>
   <li>Total Issues: <strong>6</strong></li>
