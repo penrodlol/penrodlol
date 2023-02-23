@@ -30,7 +30,7 @@
   
   <li>
     <strong>TypeScript </strong>
-    <span>67 hrs</span>
+    <span>65 hrs 53 mins</span>
   </li>
   
   <li>
@@ -40,7 +40,7 @@
   
   <li>
     <strong>Astro </strong>
-    <span>18 hrs 16 mins</span>
+    <span>17 hrs 53 mins</span>
   </li>
   
 </ul>
