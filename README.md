@@ -35,7 +35,7 @@
   
   <li>
     <strong>Java </strong>
-    <span>32 hrs 2 mins</span>
+    <span>27 hrs 59 mins</span>
   </li>
   
   <li>
@@ -48,7 +48,7 @@
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
-  <li>Total Commits: <strong>734</strong></li>
+  <li>Total Commits: <strong>727</strong></li>
   <li>Total Stars: <strong>12</strong></li>
   <li>Total PRs: <strong>9</strong></li>
   <li>Total Issues: <strong>6</strong></li>
