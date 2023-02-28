@@ -30,17 +30,17 @@
   
   <li>
     <strong>TypeScript </strong>
-    <span>56 hrs 47 mins</span>
+    <span>56 hrs 16 mins</span>
   </li>
   
   <li>
     <strong>Java </strong>
-    <span>25 hrs 51 mins</span>
+    <span>23 hrs 23 mins</span>
   </li>
   
   <li>
     <strong>Astro </strong>
-    <span>17 hrs 39 mins</span>
+    <span>17 hrs 36 mins</span>
   </li>
   
 </ul>
@@ -48,7 +48,7 @@
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
-  <li>Total Commits: <strong>719</strong></li>
+  <li>Total Commits: <strong>706</strong></li>
   <li>Total Stars: <strong>12</strong></li>
   <li>Total PRs: <strong>9</strong></li>
   <li>Total Issues: <strong>6</strong></li>
