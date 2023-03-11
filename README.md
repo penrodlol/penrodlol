@@ -30,17 +30,17 @@
   
   <li>
     <strong>TypeScript </strong>
-    <span>22 hrs 40 mins</span>
+    <span>22 hrs 6 mins</span>
   </li>
   
   <li>
     <strong>Java </strong>
-    <span>16 hrs 8 mins</span>
+    <span>8 hrs 46 mins</span>
   </li>
   
   <li>
     <strong>Astro </strong>
-    <span>7 hrs 4 mins</span>
+    <span>5 hrs 43 mins</span>
   </li>
   
 </ul>
