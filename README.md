@@ -30,7 +30,7 @@
   
   <li>
     <strong>TypeScript </strong>
-    <span>13 hrs 15 mins</span>
+    <span>10 hrs 13 mins</span>
   </li>
   
   <li>
@@ -39,8 +39,8 @@
   </li>
   
   <li>
-    <strong>SCSS </strong>
-    <span>1 hr 47 mins</span>
+    <strong>HTML </strong>
+    <span>28 mins</span>
   </li>
   
 </ul>
