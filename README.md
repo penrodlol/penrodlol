@@ -30,12 +30,12 @@
   
   <li>
     <strong>TypeScript </strong>
-    <span>10 hrs 13 mins</span>
+    <span>7 hrs 59 mins</span>
   </li>
   
   <li>
     <strong>Other </strong>
-    <span>2 hrs 5 mins</span>
+    <span>1 hr 22 mins</span>
   </li>
   
   <li>
