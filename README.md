@@ -30,17 +30,17 @@
   
   <li>
     <strong>TypeScript </strong>
-    <span>3 hrs 21 mins</span>
+    <span>26 mins</span>
+  </li>
+  
+  <li>
+    <strong>SCSS </strong>
+    <span>3 mins</span>
   </li>
   
   <li>
     <strong>HTML </strong>
-    <span>28 mins</span>
-  </li>
-  
-  <li>
-    <strong>Java </strong>
-    <span>26 mins</span>
+    <span>1 min</span>
   </li>
   
 </ul>
@@ -49,8 +49,8 @@
 
 <ul>
   <li>Total Commits: <strong>683</strong></li>
-  <li>Total Stars: <strong>15</strong></li>
-  <li>Total PRs: <strong>10</strong></li>
+  <li>Total Stars: <strong>14</strong></li>
+  <li>Total PRs: <strong>11</strong></li>
   <li>Total Issues: <strong>6</strong></li>
   <li>Total Contributions: <strong>3</strong></li>
 </ul>
