@@ -24,12 +24,6 @@
   
 </ul>
 
-<h2>Top Languages (Past 30 Days)</h2>
-
-<ul>
-  
-</ul>
-
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
