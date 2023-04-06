@@ -29,7 +29,7 @@
 <ul>
   <li>Total Commits: <strong>712</strong></li>
   <li>Total Stars: <strong>17</strong></li>
-  <li>Total PRs: <strong>12</strong></li>
+  <li>Total PRs: <strong>13</strong></li>
   <li>Total Issues: <strong>6</strong></li>
   <li>Total Contributions: <strong>3</strong></li>
 </ul>
