@@ -12,6 +12,8 @@
 
 <ul>
   
+  <li><a href="https://christianpenrod.com/blog/summarize-blog-posts-with-typescript-and-openais-gpt/">Summarize Blog Posts with TypeScript and OpenAI&#39;s GPT</a></li>
+  
   <li><a href="https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables/">Astro Shiki Syntax Highlighting with CSS Variables</a></li>
   
   <li><a href="https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints/">Tailwind CSS Responsive Design Without Breakpoints</a></li>
@@ -27,9 +29,9 @@
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
-  <li>Total Commits: <strong>778</strong></li>
+  <li>Total Commits: <strong>781</strong></li>
   <li>Total Stars: <strong>22</strong></li>
-  <li>Total PRs: <strong>24</strong></li>
+  <li>Total PRs: <strong>25</strong></li>
   <li>Total Issues: <strong>6</strong></li>
   <li>Total Contributions: <strong>3</strong></li>
 </ul>
