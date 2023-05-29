@@ -12,24 +12,24 @@
 
 <ul>
   
-  <li><a href="https://christianpenrod.com/blog/summarize-blog-posts-with-typescript-and-openais-gpt/">Summarize Blog Posts with TypeScript and OpenAI&#39;s GPT</a></li>
+  <li><a href="https://www.christianpenrod.com/blog/summarize-blog-posts-with-typescript-and-openais-gpt/">Summarize Blog Posts with TypeScript and OpenAI&#39;s GPT</a></li>
   
-  <li><a href="https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables/">Astro Shiki Syntax Highlighting with CSS Variables</a></li>
+  <li><a href="https://www.christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables/">Astro Shiki Syntax Highlighting with CSS Variables</a></li>
   
-  <li><a href="https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints/">Tailwind CSS Responsive Design Without Breakpoints</a></li>
+  <li><a href="https://www.christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints/">Tailwind CSS Responsive Design Without Breakpoints</a></li>
   
-  <li><a href="https://christianpenrod.com/blog/developing-browser-extensions-with-nextjs/">Developing Browser Extensions with Next.js</a></li>
+  <li><a href="https://www.christianpenrod.com/blog/developing-browser-extensions-with-nextjs/">Developing Browser Extensions with Next.js</a></li>
   
-  <li><a href="https://christianpenrod.com/blog/hyper-terminal-and-its-arsenal-of-plugins/">Hyper Terminal and its arsenal of plugins</a></li>
+  <li><a href="https://www.christianpenrod.com/blog/hyper-terminal-and-its-arsenal-of-plugins/">Hyper Terminal and its arsenal of plugins</a></li>
   
-  <li><a href="https://christianpenrod.com/blog/local-state-with-ngrx-and-apollo-angular/">Local State with NgRx &amp; Apollo Angular</a></li>
+  <li><a href="https://www.christianpenrod.com/blog/local-state-with-ngrx-and-apollo-angular/">Local State with NgRx &amp; Apollo Angular</a></li>
   
 </ul>
 
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
-  <li>Total Commits: <strong>781</strong></li>
+  <li>Total Commits: <strong>769</strong></li>
   <li>Total Stars: <strong>22</strong></li>
   <li>Total PRs: <strong>25</strong></li>
   <li>Total Issues: <strong>6</strong></li>
