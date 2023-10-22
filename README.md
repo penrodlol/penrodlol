@@ -12,7 +12,7 @@
 
 <ul>
   
-  <li><a href="https://christianpenrod.com/blog/summarize-blog-posts-with-typescript-and-openais-gpt/">Summarize Blog Posts with TypeScript and OpenAI&#39;s GPT</a></li>
+  <li><a href="https://christianpenrod.com/blog/summarize-blog-posts-with-typescript-and-gpt/">Summarize Blog Posts with TypeScript and GPT</a></li>
   
   <li><a href="https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables/">Astro Shiki Syntax Highlighting with CSS Variables</a></li>
   
@@ -29,9 +29,9 @@
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
-  <li>Total Commits: <strong>541</strong></li>
+  <li>Total Commits: <strong>537</strong></li>
   <li>Total Stars: <strong>31</strong></li>
-  <li>Total PRs: <strong>29</strong></li>
+  <li>Total PRs: <strong>30</strong></li>
   <li>Total Issues: <strong>6</strong></li>
   <li>Total Contributions: <strong>0</strong></li>
 </ul>
