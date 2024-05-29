@@ -1,0 +1,31 @@
+name: GitHub Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.GH_ACCESS_TOKEN }}
+          filename: static/github-metrics.*
+          config_padding: 0, 20
+          committer_message: 'chore: update github metrics [skip ci]'
+
+          # Options
+          user: penrodlol
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/New_York
+          config_display: large
+
+          # Lines
+          plugin_lines: yes
