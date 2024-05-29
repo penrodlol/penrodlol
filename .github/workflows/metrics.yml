@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.GH_ACCESS_TOKEN }}
           filename: static/github-metrics.*
           user: penrodlol
-          config_output: json
+          config_output: svg
           config_timezone: America/New_York
           committer_message: 'chore: update github metrics [skip ci]'
 
