@@ -17,16 +17,10 @@ jobs:
         with:
           token: ${{ secrets.GH_ACCESS_TOKEN }}
           filename: static/github-metrics.*
-          config_padding: 0, 20
-          config_output: json
-          committer_message: 'chore: update github metrics [skip ci]'
-
-          # Options
           user: penrodlol
-          template: classic
-          base: header, activity, community, repositories, metadata
+          config_output: json
           config_timezone: America/New_York
-          config_display: large
+          committer_message: 'chore: update github metrics [skip ci]'
 
           # Lines
           plugin_lines: yes
