@@ -12,6 +12,8 @@
 
 <ul>
   
+  <li><a href="https://christianpenrod.com/blog/full-text-search-with-astro-db/">Full-Text Search with Astro DB</a></li>
+  
   <li><a href="https://christianpenrod.com/blog/summarize-blog-posts-with-typescript-and-gpt/">Summarize Blog Posts with TypeScript and GPT</a></li>
   
   <li><a href="https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables/">Astro Shiki Syntax Highlighting with CSS Variables</a></li>
@@ -29,7 +31,7 @@
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
-  <li>Total Commits: <strong>261</strong></li>
+  <li>Total Commits: <strong>263</strong></li>
   <li>Total Stars: <strong>46</strong></li>
   <li>Total PRs: <strong>35</strong></li>
   <li>Total Issues: <strong>7</strong></li>
