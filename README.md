@@ -31,9 +31,9 @@
 <h2>Github Stats (Past Year)</h2>
 
 <ul>
-  <li>Total Commits: <strong>205</strong></li>
+  <li>Total Commits: <strong>203</strong></li>
   <li>Total Stars: <strong>48</strong></li>
-  <li>Total PRs: <strong>37</strong></li>
+  <li>Total PRs: <strong>38</strong></li>
   <li>Total Issues: <strong>7</strong></li>
   <li>Total Contributions: <strong>1</strong></li>
 </ul>
