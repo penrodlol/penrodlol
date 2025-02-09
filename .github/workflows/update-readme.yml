@@ -17,7 +17,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 'lts/*'
+          node-version: '23.7.0'
           cache: 'pnpm'
 
       - name: Install Dependencies
@@ -33,10 +33,6 @@ jobs:
           config_output: json
           repositories_batch: 200
           output_action: none
-
-          plugin_languages: yes
-          plugin_languages_limit: 6
-          plugin_languages_indepth: true
 
       - name: Extract Github Metrics
         run: |
