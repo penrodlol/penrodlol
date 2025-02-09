@@ -19,9 +19,9 @@ const template = `
 <h2>GITHUB STATISTICS</h2>
 <p>I work on random side projects and open source software in my free time. Below are some statistics around that.</p>
 <picture>
-  <source media="(min-width: 601px)" srcset="assets/statistics.png?v=${version}" />
-  <source media="(max-width: 600px)" srcset="assets/statistics.png?v=${version}" />
-  <img src="assets/statistics.png?v=${version}" alt="Github Statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/statistics.dark.png?v=${version}" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/statistics.light.png?v=${version}" />
+  <img src="assets/statistics.dark.png?v=${version}" alt="Github Statistics" />
 </picture>
 <br />
 <br />
