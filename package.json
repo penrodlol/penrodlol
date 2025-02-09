@@ -10,7 +10,7 @@
     "url": "git+https://github.com/penrodlol/penrodlol.git"
   },
   "scripts": {
-    "build": "npx tsx --env-file=.env src/index.ts"
+    "build": "npx tsx src/index.ts"
   },
   "devDependencies": {
     "@types/node": "^22.13.1",
