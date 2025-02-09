@@ -8,25 +8,76 @@ on:
 jobs:
   scheduled-job:
     runs-on: ubuntu-latest
-    env:
-      GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: actions/setup-node@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
         with:
-          node-version: '16'
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+          cache: 'pnpm'
 
       - name: Install Dependencies
-        run: yarn install
+        run: pnpm ci
 
-      - name: Update README
-        run: yarn build
+      - name: Pull Github Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_ACCESS_TOKEN }}
+          base: activity, repositories, metadata
+          base_indepth: yes
+          config_timezone: America/New_York
+          config_output: json
+          repositories_batch: 200
+          output_action: none
 
-      - name: Commit Changes
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_indepth: true
+
+      - name: Extract Github Metrics
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
+          set +e
+          sudo mv /metrics_renders/* ./
+
+          jq -n --arg avatarUrl "$(jq -r '.user.avatarUrl' github-metrics.json)" \
+            --arg registration "$(jq -r '.computed.registration' github-metrics.json)" \
+            --arg followers "$(jq -r '.user.followers.totalCount' github-metrics.json)" \
+            --arg stargazers "$(jq -r '.computed.repositories.stargazers' github-metrics.json)" \
+            --arg forkers "$(jq -r '.computed.repositories.forks' github-metrics.json)" \
+            --arg watchers "$(jq -r '.computed.repositories.watchers' github-metrics.json)" \
+            --arg pullRequests "$(jq -r '.computed.repositories.pr_open' github-metrics.json)" \
+            --arg commits "$(jq -r '.computed.commits' github-metrics.json)" \
+            --arg repositories "$(jq -r '.user.repositories.totalCount' github-metrics.json)" \
+            --arg repositoriesStorage "$(jq -r '.user.repositories.totalDiskUsage' github-metrics.json)" \
+              '{
+              avatarUrl: $avatarUrl,
+              registration: $registration,
+              followers: $followers,
+              stargazers: $stargazers,
+              forkers: $forkers,
+              watchers: $watchers,
+              pullRequests: $pullRequests,
+              commits: $commits,
+              repositories: $repositories,
+              repositoriesStorage: $repositoriesStorage
+              }' \
+              > assets/statistics.json
+
+          rm github-metrics.json
+
+      - name: Generate README
+        run: pnpm run build
+
+      - name: Push Changes
+        run: |
+          set +e
+          git checkout main
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add --all
           git commit -m "🤖 Update README"
           git push
