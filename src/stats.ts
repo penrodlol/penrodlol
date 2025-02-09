@@ -15,7 +15,7 @@ export default async function () {
           <span class="text-neutral-300">Joined ${stats.registration}</span>
         </div>
       </div>
-      <div class="flex">
+      <div class="flex mb-6">
         <div class="flex flex-col mr-32">
           <div class="flex items-center mb-6">
             <span class="text-neutral-400" style="transform:scale(1.5)">${icons.Users}</span>
@@ -61,12 +61,13 @@ export default async function () {
           </div>
         </div>
       </div>
+      <em class="text-neutral-400 text-3xl ml-auto">Last Updated: ${new Date().toLocaleDateString('en-US')}</em>
     </div>
   `;
 
   await createImage(template, {
     width: 1920,
-    height: 580,
+    height: 640,
     backgroundImage: 'statistics-background',
     filename: 'statistics',
   });
