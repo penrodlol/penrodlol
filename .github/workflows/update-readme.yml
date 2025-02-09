@@ -27,7 +27,7 @@ jobs:
           cache: pnpm
 
       - name: Install Dependencies
-        run: pnpm ci
+        run: pnpm install
 
       - name: Pull Github Metrics
         uses: lowlighter/metrics@latest
