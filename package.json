@@ -16,11 +16,11 @@
     "@types/node": "^22.13.1",
     "lucide-static": "^0.473.0",
     "prettier": "^3.4.2",
-    "rss-parser": "^3.12.0",
+    "rss-parser": "^3.13.0",
     "satori": "^0.12.1",
     "satori-html": "^0.3.2",
     "sharp": "^0.33.5",
     "tsx": "^4.19.2",
-    "zod": "^3.20.2"
+    "zod": "^3.24.1"
   }
 }
