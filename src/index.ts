@@ -35,7 +35,7 @@ ${posts
       '<picture>' +
       `<source media="(min-width: 601px)" srcset="${post.link}.png?v=${version}" width="48%" />` +
       `<source media="(max-width: 600px)" srcset="${post.link}.png?v=${version}" width="100%" />` +
-      `<img src="assets/banner.dark.png?v=${version}" alt="${post.title}" width="100%" />` +
+      `<img src="${post.link}.png?v=${version}" alt="${post.title}" width="100%" />` +
       '</picture>' +
       '</a>',
   )
