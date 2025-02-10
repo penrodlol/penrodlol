@@ -9,9 +9,9 @@ await createStats();
 
 const template = `
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.dark.png?v=${version}" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner.light.png?v=${version}" />
-  <img src="assets/banner.dark.png?v=${version}" alt="Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.dark.png?v=${version}" width="843px" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner.light.png?v=${version}" width="843px" />
+  <img src="assets/banner.dark.png?v=${version}" alt="Banner" width="843px" />
 </picture>
 <br />
 <br />
@@ -19,9 +19,9 @@ const template = `
 <h2>GITHUB STATISTICS</h2>
 <p>I work on random side projects and open source software in my free time. Below are some statistics around that.</p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/statistics.dark.png?v=${version}" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/statistics.light.png?v=${version}" />
-  <img src="assets/statistics.dark.png?v=${version}" alt="Github Statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/statistics.dark.png?v=${version}" width="843px" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/statistics.light.png?v=${version}" width="843px" />
+  <img src="assets/statistics.dark.png?v=${version}" alt="Github Statistics" width="843px" />
 </picture>
 <br />
 <br />
@@ -32,11 +32,7 @@ ${posts
   .map(
     (post) =>
       `<a href="${post.link}">` +
-      '<picture>' +
-      `<source media="(min-width: 601px)" srcset="${post.link}.png?v=${version}" width="48%" />` +
-      `<source media="(max-width: 600px)" srcset="${post.link}.png?v=${version}" width="100%" />` +
-      `<img src="${post.link}.png?v=${version}" alt="${post.title}" width="100%" />` +
-      '</picture>' +
+      `<img src="${post.link}.png?v=${version}" alt="${post.title}" width="421px" />` +
       '</a>',
   )
   .join('\n')}
