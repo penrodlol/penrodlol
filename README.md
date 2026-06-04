@@ -1,8 +1,8 @@
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.dark.png?v=7eb76c20-337d-4247-9adb-10bf739808ba" width="843px" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner.light.png?v=7eb76c20-337d-4247-9adb-10bf739808ba" width="843px" />
-  <img src="assets/banner.dark.png?v=7eb76c20-337d-4247-9adb-10bf739808ba" alt="Banner" width="843px" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.dark.png?v=f1ed02d3-ee94-4ec0-99d2-3612f9c91416" width="843px" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner.light.png?v=f1ed02d3-ee94-4ec0-99d2-3612f9c91416" width="843px" />
+  <img src="assets/banner.dark.png?v=f1ed02d3-ee94-4ec0-99d2-3612f9c91416" alt="Banner" width="843px" />
 </picture>
 <br />
 <br />
@@ -10,16 +10,16 @@
 <h2>GITHUB STATISTICS</h2>
 <p>I work on random side projects and open source software in my free time. Below are some statistics around that.</p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/statistics.dark.png?v=7eb76c20-337d-4247-9adb-10bf739808ba" width="843px" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/statistics.light.png?v=7eb76c20-337d-4247-9adb-10bf739808ba" width="843px" />
-  <img src="assets/statistics.dark.png?v=7eb76c20-337d-4247-9adb-10bf739808ba" alt="Github Statistics" width="843px" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/statistics.dark.png?v=f1ed02d3-ee94-4ec0-99d2-3612f9c91416" width="843px" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/statistics.light.png?v=f1ed02d3-ee94-4ec0-99d2-3612f9c91416" width="843px" />
+  <img src="assets/statistics.dark.png?v=f1ed02d3-ee94-4ec0-99d2-3612f9c91416" alt="Github Statistics" width="843px" />
 </picture>
 <br />
 <br />
 <br />
 <h2>Recently Published</h2>
 <p>I write about web development and developer experience tooling. Below are some of the most recent articles published.</p>
-<a href="https://christianpenrod.com/blog/full-text-search-with-astro-db"><img src="https://christianpenrod.com/blog/full-text-search-with-astro-db.png?v=7eb76c20-337d-4247-9adb-10bf739808ba" alt="Full-Text Search with Astro DB" width="421px" /></a>
-<a href="https://christianpenrod.com/blog/summarize-blog-posts-with-typescript-and-gpt"><img src="https://christianpenrod.com/blog/summarize-blog-posts-with-typescript-and-gpt.png?v=7eb76c20-337d-4247-9adb-10bf739808ba" alt="Summarize Blog Posts with TypeScript and GPT" width="421px" /></a>
-<a href="https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables"><img src="https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables.png?v=7eb76c20-337d-4247-9adb-10bf739808ba" alt="Astro Shiki Syntax Highlighting with CSS Variables" width="421px" /></a>
-<a href="https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints"><img src="https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints.png?v=7eb76c20-337d-4247-9adb-10bf739808ba" alt="Tailwind CSS Responsive Design Without Breakpoints" width="421px" /></a>
+<a href="https://christianpenrod.com/blog/full-text-search-with-astro-db"><img src="https://christianpenrod.com/blog/full-text-search-with-astro-db.png?v=f1ed02d3-ee94-4ec0-99d2-3612f9c91416" alt="Full-Text Search with Astro DB" width="421px" /></a>
+<a href="https://christianpenrod.com/blog/summarize-blog-posts-with-typescript-and-gpt"><img src="https://christianpenrod.com/blog/summarize-blog-posts-with-typescript-and-gpt.png?v=f1ed02d3-ee94-4ec0-99d2-3612f9c91416" alt="Summarize Blog Posts with TypeScript and GPT" width="421px" /></a>
+<a href="https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables"><img src="https://christianpenrod.com/blog/astro-shiki-syntax-highlighting-with-css-variables.png?v=f1ed02d3-ee94-4ec0-99d2-3612f9c91416" alt="Astro Shiki Syntax Highlighting with CSS Variables" width="421px" /></a>
+<a href="https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints"><img src="https://christianpenrod.com/blog/tailwindcss-responsive-design-without-breakpoints.png?v=f1ed02d3-ee94-4ec0-99d2-3612f9c91416" alt="Tailwind CSS Responsive Design Without Breakpoints" width="421px" /></a>
